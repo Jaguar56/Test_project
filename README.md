@@ -31,7 +31,7 @@
 URL: [http://127.0.0.1:8000/get-current-usd/](http://127.0.0.1:8000/get-current-usd/).
 
 * Пример ответа http://127.0.0.1:8000/get-current-usd/ в формате JSON:
-```
+```json
 {
 current_conversion_rate_usd_to_rub: 86.8485,
 last_10_rate_usd_to_rub_requests: [
